@@ -1,0 +1,13 @@
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\bin\Debug\CSGOACCOUNTCFG.exe.config
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\bin\Debug\CSGOACCOUNTCFG.exe
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\bin\Debug\CSGOACCOUNTCFG.pdb
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\obj\Debug\CSGOACCOUNTCFG.csprojAssemblyReference.cache
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\obj\Debug\CSGOACCOUNTCFG.Form1.resources
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\obj\Debug\CSGOACCOUNTCFG.Properties.Resources.resources
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\obj\Debug\CSGOACCOUNTCFG.csproj.GenerateResource.cache
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\obj\Debug\CSGOACCOUNTCFG.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\obj\Debug\CSGOACCOUNTCFG.csproj.CopyComplete
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\obj\Debug\CSGOACCOUNTCFG.exe
+C:\Users\Макс\source\repos\CSGOACCOUNTCFG\obj\Debug\CSGOACCOUNTCFG.pdb
